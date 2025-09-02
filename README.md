@@ -32,4 +32,4 @@ Each folder represents a **Day**, including coding challenges, projects, and pra
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Aesha023/first-reposetory.git
+   git clone https://github.com/Aesha023/21-days-of-python-development.git
